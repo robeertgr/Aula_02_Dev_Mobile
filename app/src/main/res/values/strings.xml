@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula02</string>
+    <string name="botao">Olá Mundo!</string>
+    <string name="radioMasculino">Masculino</string>
+    <string name="radioFeminino">Feminino</string>
+    <string name="radioIndefinido">Indefinido</string>
+</resources>
